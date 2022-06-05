@@ -46,6 +46,7 @@ gem "bootsnap", require: false
 
 gem 'fast_jsonapi'
 
+gem 'whenever', require: false
 # Use Sass to process CSS
 # gem "sassc-rails"
 
